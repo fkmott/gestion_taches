@@ -1,2 +1,2 @@
 def main ():
-    print("Version finale A + B")
+    print("Version finale A + B testé et fonctionnel")
